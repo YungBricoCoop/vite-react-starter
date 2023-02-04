@@ -7,11 +7,11 @@
 // components
 import Page from "../components/Page";
 
-const Admin: React.FC = () => {
+const Home: React.FC = () => {
 	return (
-		<Page title="Admin">
+		<Page title="Home">
 		</Page>
 	)
 }
 
-export default Admin
+export default Home
