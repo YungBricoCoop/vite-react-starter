@@ -13,7 +13,6 @@ const Page: React.FC<PageProps> = ({
     title = '',
     className = '',
     pageClassName = '',
-    hideSideBar = false,
     loading = false,
     children
 }) => {
